@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 00:00+0000\n"
+"PO-Revision-Date: 2025-08-20 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: system/messages
+msgid "no user data exists"
+msgstr "no user data exists"
+
+msgid "invalid username or password"
+msgstr "invalid username or password"
+
+msgid "you should enter a valid search value"
+msgstr "you should enter a valid search value"
+
+msgid "something went wrong while connecting to db"
+msgstr "something went wrong while connecting to db"
+
+msgid "something went wrong while getting data"
+msgstr "something went wrong while getting data"
+
+msgid "this search has no data"
+msgstr "this search has no data"
+
+msgid "Role added successfully"
+msgstr "Role added successfully"
+
+msgid "this role doesn't exist or may be deleted"
+msgstr "this role doesn't exist or may be deleted"
+
+msgid "invalid permission"
+msgstr "invalid permission"
+
+msgid "wrong permission or role"
+msgstr "wrong permission or role"
+
+msgid "you should choose alter role to move the current role users to"
+msgstr "you should choose alter role to move the current role users to"
+
+msgid "the alter role doesn't exist or has been deleted"
+msgstr "the alter role doesn't exist or has been deleted"
+
+msgid "the alter role and deleted role shouldn't be the same"
+msgstr "the alter role and deleted role shouldn't be the same"
+
+msgid "role has been deleted succssefully!"
+msgstr "role has been deleted succssefully!"
+
+msgid "This Notification is not found or has been deleted"
+msgstr "This Notification is not found or has been deleted"
+
+
+msgid "Notification saved successfully"
+msgstr "Notification saved successfully"
+
+
+msgid "Please Complete all notification steps first"
+msgstr "Please Complete all notification steps first"
+
+msgid "This Notification already has been sent"
+msgstr "This Notification already has been sent"
+
+msgid "All data seems to be good but something went wrong while sending this notification"
+msgstr "All data seems to be good but something went wrong while sending this notification"
+
+msgid "Notification added to be sent list successfully"
+msgstr "Notification added to be sent list successfully"
+
+msgid "Notification added to review list successfully"
+msgstr "Notification added to review list successfully"
+
+
+
+msgid "This Template is not found or has been deleted"
+msgstr "This Template is not found or has been deleted"
+
+msgid "activated successfully"
+msgstr "activated successfully"
+
+msgid "deactivated successfully"
+msgstr "deactivated successfully"
+
+
+msgid "Template saved successfully"
+msgstr "Template saved successfully"
+
+msgid "this query is invalid"
+msgstr "this query is invalid"
+
+msgid "FullName"
+msgstr "Full Name"
+
+msgid "Role"
+msgstr"Role"
+
+msgid "this user doesn't exist or has been deleted"
+msgstr "this user doesn't exist or has been deleted"
+
+msgid "user"
+msgstr "user"
+
+msgid "added successfully"
+msgstr "added successfully"
+
+msgid "Customer Name"
+msgstr "Customer Name"
+
+msgid "ID Number"
+msgstr "ID Number"
+
+msgid "Customer Number"
+msgstr "Customer Number"
+
+msgid "Phone Number"
+msgstr "Phone Number"
+
+msgid "Order Number"
+msgstr "Order Number"
+
+msgid "Bucket"
+msgstr "Bucket"
+
+msgid "City"
+msgstr "City"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Day Of Bitrh"
+msgstr "Day Of Bitrh"
+
+msgid "Remaining Amount"
+msgstr "Remaining Amount"
+
+msgid "Amount Due"
+msgstr "Amount Due"
+
+msgid "Tenure"
+msgstr "Tenure"
+
+msgid "Number Of Delay Days"
+msgstr "Number Of Delay Days"
+
+msgid "EMI"
+msgstr "EMI"
+
+msgid "Total Paid"
+msgstr "Total Paid"
+
+msgid "Excess Amount"
+msgstr "Excess Amount"
+
+msgid "Next Due Date Emi"
+msgstr "Next Due Date Emi"
+
+
+msgid "Next Due Amount"
+msgstr "Next Due Amount"
+
+
+msgid "Main Stat"
+msgstr "Main Stat"
+
+
+msgid "Sub stat"
+msgstr "Sub stat"
+
+
+msgid "search value shouldn't be empty"
+msgstr "search value shouldn't be empty"
+
+
+msgid "Message Template"
+msgstr "Message Template"
+
+msgid "Created At"
+msgstr "Created At"
+
+msgid "Sent At"
+msgstr "Sent At"
+
+msgid "Sender"
+msgstr "Sender"
+
+msgid "Number Of Recipients"
+msgstr "Number Of Recipients"
+
+
+msgid "Invalid file extension"
+msgstr "Invalid file extension"
+
+msgid "the file attached has no data"
+msgstr "the file attached has no data"
+
+msgid "you should add at least one or more customer!"
+msgstr "you should add at least one or more customer!"
+
+msgid "Customer Phone Number is not valid"
+msgstr "Customer Phone Number is not valid"
+
+msgid "this page is not found"
+msgstr "this page is not found"
+
+msgid "Invalid Data you should select a valid Customer"
+msgstr "Invalid Data you should select a valid Customer"
+
+msgid "this templated is not found or has been deleted"
+msgstr "this templated is not found or has been deleted"
+
+msgid "This role already exists"
+msgstr "This role already exists"
+
+msgid "Role has benn changed successfully"
+msgstr "Role has benn changed successfully"
+
+msgid "The Permission has added to  the role"
+msgstr "The Permission has added to  the role"
+
+msgid "Message"
+msgstr "Message"
+
+msgid "English Message"
+msgstr "English Message"
+
+msgid "Application Number"
+msgstr "Application Number"
+
+msgid "ID NUMBER"
+msgstr "ID NUMBER"
+
+msgid "APPLICATION DATE"
+msgstr "APPLICATION DATE"
+
+msgid "Nationality"
+msgstr "Nationality"
+
+msgid "Age"
+msgstr "Age"
+
+msgid "Sectype"
+msgstr "Sectype"
+
+msgid "Job Status"
+msgstr "Job Status"
+
+msgid "Simah Rate"
+msgstr "Simah Rate"
+
+msgid "Service Period"
+msgstr "Service Period"
+
+msgid "Finance Amount"
+msgstr "Finance Amount"
+
+msgid "Finance Period"
+msgstr "Finance Period"
+
+msgid "Age Standard Verification"
+msgstr "Age Standard Verification"
+
+msgid "Income Standard Verification"
+msgstr "Income Standard Verification"
+
+msgid "Service Period Standard Verification"
+msgstr "Service Period Standard Verification"
+
+msgid "Credit Decision"
+msgstr "Credit Decision"
+
+msgid "Net Iincome"
+msgstr "Net Iincome"
+
+msgid "Simah Obligation"
+msgstr "Simah Obligation"
+
+msgid "DBR"
+msgstr "DBR"
+
+msgid "Allowable Installment"
+msgstr "Allowable Installment"
+
+
+

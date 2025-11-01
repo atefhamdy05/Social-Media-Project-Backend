@@ -1,0 +1,20 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+.env
+.env*
+media/*
+venv/
+media
+*.csv
+*sqlite*
+db.sqlite3
+logs/*
+static/
+*.mo
+Dockerfile
+docker-compose.yaml

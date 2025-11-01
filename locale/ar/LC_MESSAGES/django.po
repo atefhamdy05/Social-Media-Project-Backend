@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-08-20 00:00+0000\n"
+"PO-Revision-Date: 2025-08-20 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : "
+"(n%100>=3 && n%100<=10) ? 3 : (n%100>=11 && n%100<=99) ? 4 : 5;\n"
+
+#: system/messages
+msgid "no user data exists"
+msgstr "لا توجد بيانات مستخدم"
+
+msgid "invalid username or password"
+msgstr "اسم المستخدم أو كلمة المرور غير صحيحة"
+
+msgid "Created By"
+msgstr "تم انشاؤه بواسطة"
+
+msgid "you should enter a valid search value"
+msgstr "يجب إدخال قيمة بحث صحيحة"
+
+msgid "something went wrong while connecting to db"
+msgstr "حدث خطأ أثناء الاتصال بقاعدة البيانات"
+
+msgid "something went wrong while getting data"
+msgstr "حدث خطأ أثناء جلب البيانات"
+
+msgid "this search has no data"
+msgstr "هذا البحث لا يحتوي على بيانات"
+
+msgid "Role added successfully"
+msgstr "تمت إضافة المهمة بنجاح"
+
+msgid "this role doesn't exist or may be deleted"
+msgstr "هذا المهمة غير موجود أو قد تم حذفه"
+
+msgid "invalid permission"
+msgstr "إذن غير صالح"
+
+msgid "wrong permission or role"
+msgstr "إذن أو دور غير صحيح"
+
+msgid "you should choose alter role to move the current role users to"
+msgstr "يجب اختيار دور بديل لنقل مستخدمي المهمة الحالي إليه"
+
+msgid "the alter role doesn't exist or has been deleted"
+msgstr "المهمة البديل غير موجود أو قد تم حذفه"
+
+msgid "the alter role and deleted role shouldn't be the same"
+msgstr "لا يجب أن يكون المهمة البديل والمهمة المحذوف نفس الشيء"
+
+msgid "role has been deleted succssefully!"
+msgstr "تم حذف المهمة بنجاح!"
+
+msgid "This Notification is not found or has been deleted"
+msgstr "هذا الإشعار غير موجود أو قد تم حذفه"
+
+msgid "This Template is not found or has been deleted"
+msgstr "هذا القالب غير موجود أو قد تم حذفه"
+
+msgid "Notification saved successfully"
+msgstr "تم حفظ الإشعار بنجاح"
+
+
+msgid "Please Complete all notification steps first"
+msgstr "يرجى إكمال جميع خطوات الإشعار أولاً"
+
+msgid "This Notification already has been sent"
+msgstr "تم إرسال هذا الإشعار بالفعل"
+
+msgid "All data seems to be good but something went wrong while sending this notification"
+msgstr "جميع البيانات تبدو صحيحة ولكن حدث خطأ أثناء إرسال هذا الإشعار"
+
+msgid "Notification added to be sent list successfully"
+msgstr "تمت إضافة الإشعار إلى قائمة الإرسال بنجاح"
+
+msgid "Notification added to review list successfully"
+msgstr "تمت إضافة الإشعار إلى قائمة المراجعة بنجاح"
+
+
+msgid "activated successfully"
+msgstr "تم التفعيل بنجاح"
+
+msgid "deactivated successfully"
+msgstr "تم الغاء التفعيل بنجاح"
+
+
+msgid "this query is invalid"
+msgstr "هذا الاستعلام غير صالح"
+
+msgid "This template already exists"
+msgstr "هذا القالب متواجد بالفعل"
+
+msgid "Template saved successfully"
+msgstr "تم حفظ القالب بنجاح"
+
+msgid "Role Name"
+msgstr "اسم المهمة"
+
+msgid "FullName"
+msgstr "الأسم بالكامل "
+
+msgid "Role"
+msgstr "المهمة"
+
+msgid "this user doesn't exist or has been deleted"
+msgstr "هذا المستخدم غير موجود او تم حذفه"
+
+msgid "user"
+msgstr "المستخدم"
+
+msgid "added successfully"
+msgstr "تم اضافته بنجاح"
+
+msgid "Customer Name"
+msgstr "اسم العميل"
+
+msgid "ID Number"
+msgstr "رقم الهوية"
+
+msgid "Customer Number"
+msgstr "رقم العميل"
+
+msgid "Phone Number"
+msgstr "رقم الجوال"
+
+msgid "Order Number"
+msgstr "رقم الطلب"
+
+msgid "Bucket "
+msgstr "المحفظه"
+
+msgid "City"
+msgstr "المدينة"
+
+msgid "Email"
+msgstr "البريد الالكتروني"
+
+msgid "Day Of Bitrh"
+msgstr "تاريخ الميلاد"
+
+msgid "Remaining Amount"
+msgstr "المبلغ المتبقي"
+
+msgid "Amount Due "
+msgstr "المبلغ المستحق"
+
+msgid "Tenure"
+msgstr "عدد الأقساط"
+
+msgid "Number Of Delay Days"
+msgstr "عدد أيام التأخير"
+
+msgid "EMI"
+msgstr "القسط الشهري"
+
+msgid "Total Paid"
+msgstr "اجمالي المبلغ المسدد"
+
+msgid "Excess Amount"
+msgstr "المبلغ الفائض"
+
+
+msgid "Next Due Date Emi"
+msgstr "تاريخ القسط القادم"
+
+
+msgid "Next Due Amount"
+msgstr "مبلغ القسط القادم"
+
+
+msgid "Main Stat"
+msgstr "حالة العقد الرئيسية"
+
+
+msgid "Sub stat"
+msgstr "حالة العقد الفرعية"
+
+msgid "search value shouldn't be empty"
+msgstr"لا ينبغي أن تكون قيمة البحث فارغة"
+
+msgid "Message Template"
+msgstr "نموذج الرسالة"
+
+msgid "Created At"
+msgstr "تاريخ الإنشاء"
+
+msgid "Sent At"
+msgstr "تاريخ الإرسال"
+
+msgid "Sender"
+msgstr "المرسل"
+
+msgid "Number Of Recipients"
+msgstr "عدد المرسل إليهم"
+
+msgid "Invalid file extension"
+msgstr "امتداد الملف غير صالح"
+
+msgid "the file attached has no data"
+msgstr "الملف المرفق لا يحتوي على أي بيانات"
+
+msgid "you should add at least one or more customer!"
+msgstr "ينبغي عليك إضافة عميل واحد أو أكثر على الأقل!"
+
+msgid "Customer Phone Number is not valid"
+msgstr "رقم هاتف العميل غير صالح"
+
+msgid "this page is not found"
+msgstr "لم يتم العثور على هذه الصفحة"
+
+msgid "Invalid Data you should select a valid Customer"
+msgstr "بيانات غير صالحة، يجب عليك تحديد عميل صالح"
+
+msgid "this templated is not found or has been deleted"
+msgstr "لم يتم العثور على هذا القالب أو تم حذفه"
+
+msgid "This role already exists"
+msgstr "هذا المهمة موجود مسبقا"
+
+msgid "Role has benn changed successfully"
+msgstr "تم تغير المهمة بنجاح"
+
+msgid "The Permission has added to  the role"
+msgstr "تمت إضافة الإذن إلى المهمة"
+
+msgid "Message"
+msgstr "الرسالة"
+
+msgid "English Message"
+msgstr "الرسالة باللغة الانجليزية"
+
+msgid "Application Number"
+msgstr "رقم الطلب"
+
+msgid "ID NUMBER"
+msgstr "رقم الهوية"
+
+msgid "APPLICATION DATE"
+msgstr "تاريخ الطلب"
+
+msgid "Nationality"
+msgstr "الجنسية"
+
+msgid "Age"
+msgstr "العمر"
+
+msgid "Sectype"
+msgstr "نوع القطاع"
+
+msgid "Job Status"
+msgstr "الحالة الوظيفية"
+
+msgid "Simah Rate"
+msgstr "معدل سمه"
+
+msgid "Service Period"
+msgstr "مدة الخدمة"
+
+msgid "Finance Amount"
+msgstr "مبلغ التمويل"
+
+msgid "Finance Period"
+msgstr "مده التمويل"
+
+msgid "Age Standard Verification"
+msgstr "التحقق من معيار العمر"
+
+msgid "Income Standard Verification"
+msgstr "التحقق من معيار الدخل"
+
+msgid "Service Period Standard Verification"
+msgstr "التحقق من معيار مدة الخدمة"
+
+msgid "Credit Decision"
+msgstr "القرار الأتماني"
+
+msgid "Net Iincome"
+msgstr "الدخل الشهري"
+
+msgid "Simah Obligation"
+msgstr "إلتزامات سمه"
+
+msgid "DBR"
+msgstr "نسبة عبئ الديون"
+
+msgid "Allowable Installment"
+msgstr "القسط السموح"

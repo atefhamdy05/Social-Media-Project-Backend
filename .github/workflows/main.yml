@@ -1,0 +1,23 @@
+name: Deploy Application
+
+on:
+  push:
+    branches:
+      - main  # Trigger deployment on pushes to the main branch
+
+jobs:
+  deploy:
+    runs-on: [self-hosted, prod]  # Ensure the labels match your self-hosted runner configuration
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Pull Latest Code
+        run: |
+          cd /home/sief.aldeen/Motmm-Backend
+          git pull
+      - name: Restart Docker Compose
+        run: |
+          cd /home/sief.aldeen/Motmm-Backend
+          docker-compose down
+          docker-compose up --build -d
